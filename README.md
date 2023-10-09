@@ -2,7 +2,11 @@
 <img src="https://media.licdn.com/dms/image/D5616AQGnZhq3hd_Jog/profile-displaybackgroundimage-shrink_350_1400/0/1691326503288?e=1701907200&v=beta&t=kH3n99SJ9AFLeARmMPV4WYYLkSfQ17LpxfY0wJscspU" alt="Banner Image" width="100%">
 <h1 align="center">Hi 👋, I'm Digvijay Singh</h1>
 <h3 align="center"> Full-Stack Web developer | Open Source enthusiast </h3>
+ I am a passionate web developer with expertise in developing dynamic and user-friendly web interfaces using modern web technologies such as React, Node.js.
 
+- 🔭 I’m currently working on Web development projects using MERN stack
+- 🌱 I’m currently learning Machine Learning
+- 💬 Ask me about web development technologies and frameworks
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijay2347&label=Profile%20views&color=0e75b6&style=flat" alt="digvijay2347" /> </p>
 
 <h3 align="left">Connect with me:</h3>
